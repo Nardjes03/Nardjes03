@@ -1,6 +1,11 @@
+
 <p align="center">
   <a href="https://github.com/Nardjes03">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a855f7&fontSize=54&height=90&width=1200&text=Software%20Engineering%20%26%20AI%20Researcher" alt="Software Engineering &amp; AI Researcher" />
+    <img
+      src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:DB2777&height=140&section=header&text=Software%20Engineering%20%26%20AI%20Researcher&fontSize=32&fontColor=FFFFFF&fontAlignY=55"
+      alt="Software Engineering and AI Researcher"
+      width="100%"
+    />
   </a>
 </p>
 
