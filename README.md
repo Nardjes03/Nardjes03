@@ -1,13 +1,4 @@
-
-<p align="center">
-  <a href="https://github.com/Nardjes03">
-    <img
-      src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:DB2777&height=140&section=header&text=Software%20Engineering%20%26%20AI%20Researcher&fontSize=32&fontColor=FFFFFF&fontAlignY=55"
-      alt="Software Engineering and AI Researcher"
-      width="100%"
-    />
-  </a>
-</p>
+<h1 align="center">Software Engineering & AI Researcher</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Privacy-Preserving%20ML%20%C2%B7%20Cloud%20%26%20Edge%20Security%20%C2%B7%20Web%20Development" alt="Typing headlines" />
@@ -54,25 +45,3 @@ PhD researcher in Software Engineering and Artificial Intelligence, focusing on 
   <a href="https://linkedin.com/in/www.linkedin.com/in/sara-nardjes-khiat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:saranardjes.khiat@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Nardjes03&show_icons=true&theme=tokyonight&title_color=a855f7&icon_color=a855f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Nardjes03&layout=compact&theme=tokyonight&title_color=a855f7&icon_color=a855f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Nardjes03&bg_color=00000000&color=a855f7&line=a855f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/Nardjes03">Nardjes03</a></i></p>
