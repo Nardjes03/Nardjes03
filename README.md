@@ -1,4 +1,4 @@
-<h1 align="center">Software Engineering & AI Researcher</h1>
+<h1 align="center">PhD Researcher in Software Engineering & AI</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Privacy-Preserving%20ML%20%C2%B7%20Cloud%20%26%20Edge%20Security%20%C2%B7%20Web%20Development" alt="Typing headlines" />
